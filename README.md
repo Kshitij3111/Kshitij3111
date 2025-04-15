@@ -80,10 +80,10 @@ I'm an entry-level Data Analyst with a strong foundation in data analysis tools 
 
 ## 🏆 Certifications
 
-- **Data Analytics Internship** – CERTIFICATE (Jan 2025)
-- **TATA Forage Data Visualization** – CERTIFICATE (Sep 2024)
-- **Databases and SQL for Data Science with Python** – CERTIFICATE (Jul 2023)
-- **Data Analysis with Python** – CERTIFICATE (Jul 2023)
+- **Data Analytics Internship** – Jan 2025
+- **TATA Forage Data Visualization** – Sep 2024
+- **Databases and SQL for Data Science with Python** – Jul 2023
+- **Data Analysis with Python** – Jul 2023
 
 ---
 
