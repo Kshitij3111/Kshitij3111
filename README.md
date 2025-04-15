@@ -17,9 +17,6 @@ I'm an entry-level Data Analyst with a strong foundation in data analysis tools 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-5A2C3D?style=flat&logo=power-bi&logoColor=white)
 
-### 📚 Statistical Analysis
-![Statistics](https://img.shields.io/badge/Statistics-000000?style=flat&logo=R&logoColor=white)
-
 ### 💼 Soft Skills
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-FFD700?style=flat&logo=brain&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-1E90FF?style=flat&logo=comment&logoColor=white)
@@ -67,8 +64,6 @@ I'm an entry-level Data Analyst with a strong foundation in data analysis tools 
 - Executed SQL queries to identify top loyal users, locate inactive accounts, and determine contest winners.
 - Identified top hashtags to enhance brand outreach and increase user engagement by 20%.
 
-
-
 ---
 
 ## 🎓 Education
@@ -92,20 +87,6 @@ I'm an entry-level Data Analyst with a strong foundation in data analysis tools 
 
 ---
 
-## 📈 GitHub Stats
-
-![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij-bahl&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ## 📬 Let's Connect
 
 Feel free to reach out to me via [email](mailto:kkshitijbahl@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kshitij-bahl). I'm always open to discussing data-driven insights and opportunities.
-
----
-
-*Note: Replace the placeholder links with your actual GitHub username and any other relevant links.*
-
----
-::contentReference[oaicite:0]{index=0}
- 
