@@ -47,25 +47,27 @@ I'm an entry-level Data Analyst with a strong foundation in data analysis tools 
 
 ## 📂 Projects
 
-### 📸 Instagram User Analytics
-*Sep 2024 – Oct 2024*
-
-- Analyzed engagement metrics for 100+ Instagram users, providing actionable insights for product and marketing strategies.
-- Executed SQL queries to identify top loyal users, locate inactive accounts, and determine contest winners.
-- Identified top hashtags to enhance brand outreach and increase user engagement by 20%.
-
-### 📞 ABC Call Volume Trend Analysis
-*Dec 2024 – Jan 2025*
-
-- Dissected call metrics to unveil insights, crafting training strategies that propelled support team efficiency by 25%.
-- Developed dynamic visualizations of call volume trends, revealing patterns and enhancing resource distribution strategies.
-- Formulated an innovative night shift staffing model, securing a call abandonment rate below 10% during low demand periods.
-
 ### 🚖 OLA Ride Cancellation Analysis
 *Feb 2025*
 
 - Cleaned and processed data from multiple sources, applied SQL queries, and visualized trends using Power BI.
 - Identified reasons and trends for ride cancellations, leading to a 10% reduction in cancellation rates through targeted interventions.
+
+### 📞 ABC Call Volume Trend Analysis
+*Jan 2025*
+
+- Dissected call metrics to unveil insights, crafting training strategies that propelled support team efficiency by 25%.
+- Developed dynamic visualizations of call volume trends, revealing patterns and enhancing resource distribution strategies.
+- Formulated an innovative night shift staffing model, securing a call abandonment rate below 10% during low demand periods.
+
+### 📸 Instagram User Analytics
+*Oct 2024*
+
+- Analyzed engagement metrics for 100+ Instagram users, providing actionable insights for product and marketing strategies.
+- Executed SQL queries to identify top loyal users, locate inactive accounts, and determine contest winners.
+- Identified top hashtags to enhance brand outreach and increase user engagement by 20%.
+
+
 
 ---
 
